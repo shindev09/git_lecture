@@ -1,1 +1,2 @@
-Content for chapter 1 - Fix comment chapter 1
+Function 1 - Update something
+add something
