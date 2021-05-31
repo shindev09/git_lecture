@@ -1,8 +1,0 @@
-Function 1 - Update something
-add something
-Content for chapter 1 - Fix comment chapter 1
-Line 2
-Line 3
-Line 4
-Line 5
-Logout
