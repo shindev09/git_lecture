@@ -1,2 +1,3 @@
 Function 1
 Add new function 1
+Add new function hieu_ngu
