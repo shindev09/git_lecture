@@ -1,3 +1,6 @@
 Function 1
 Add new function 1
 Add new function hieu_ngu
+manh add new function
+commit 2
+commit 22
